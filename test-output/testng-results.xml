@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32998" started-at="2015-05-21T10:48:32Z" finished-at="2015-05-21T10:49:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32998" started-at="2015-05-21T10:48:32Z" finished-at="2015-05-21T10:49:05Z">
+      <class name="JavaAngelTest">
+        <test-method status="PASS" signature="startup()[pri:0, instance:JavaAngelTest@11531931]" name="startup" is-config="true" duration-ms="5931" started-at="2015-05-21T13:48:32Z" finished-at="2015-05-21T13:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="javaAngelTest1()[pri:0, instance:JavaAngelTest@11531931]" name="javaAngelTest1" duration-ms="4368" started-at="2015-05-21T13:48:38Z" finished-at="2015-05-21T13:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaAngelTest1 -->
+        <test-method status="PASS" signature="javaAngelTest2()[pri:0, instance:JavaAngelTest@11531931]" name="javaAngelTest2" duration-ms="17271" started-at="2015-05-21T13:48:42Z" finished-at="2015-05-21T13:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaAngelTest2 -->
+        <test-method status="PASS" signature="javaAngelTest3()[pri:0, instance:JavaAngelTest@11531931]" name="javaAngelTest3" duration-ms="4282" started-at="2015-05-21T13:49:00Z" finished-at="2015-05-21T13:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaAngelTest3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:JavaAngelTest@11531931]" name="teardown" is-config="true" duration-ms="1133" started-at="2015-05-21T13:49:04Z" finished-at="2015-05-21T13:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- JavaAngelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
